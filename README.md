@@ -37,6 +37,8 @@ Create the database & run the application
 
 ```bash
 npm run db:push
+npx prisma db push
+
 npm run dev
 ```
 
